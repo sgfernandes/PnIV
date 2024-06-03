@@ -1,1 +1,8 @@
-numpy matplotlibpandasscipy typing ipywidgets IPython.display 
+numpy 
+matplotlib
+pandas
+scipy 
+typing 
+ipywidgets 
+voila
+
